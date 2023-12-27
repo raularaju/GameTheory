@@ -69,8 +69,7 @@ cooperadores e desertores para valores intermediários de 𝑏.
 ## Referências
 [1] M.A. Amaral, “Teoria dos jogos evolucionários e o surgimento da cooperação:
 dinâmicas inovativas e jogos mistos” Tese de Doutorado, Departamento de Física, UFMG
-(2017). http://lilith.fisica.ufmg.br/posgrad/Teses_Doutorado/decada2010/marco-
-amaral/MarcoAntonioAmaral-tese.pdf\
+(2017). http://lilith.fisica.ufmg.br/posgrad/Teses_Doutorado/decada2010/marco-amaral/MarcoAntonioAmaral-tese.pdf\
 [2] E. Pennisi, Science 309, 93 (2005).\
 [3] M. A. Nowak e R. M. May, Nature 359, 826 (1992).\
 [4] G. Szabo e C. Toke, Physical Review E, 58, 69 (1998).
